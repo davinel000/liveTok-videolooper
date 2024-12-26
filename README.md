@@ -26,7 +26,7 @@
   - Stores recorded fragments temporarily in GPU memory for maximum performance.
   - Ensures seamless playback and synchronization by caching recordings before saving them to disk.
 
-![revolving principle](screenshots/principle.png)
+![revolving principle](screenshots/Principle.png)
 - **Python Extensions**:
   - Modularized video fragment handling.
   - Ensures synchronization, memory efficiency, and stability (e.g., no dropped frames).
